@@ -6,6 +6,10 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="doubleray" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.20.10.39" />
+          <option name="userName" value="doubleray@ctrchina.cn" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
