@@ -10,7 +10,12 @@
           <option name="url" value="http://10.20.10.39" />
           <option name="userName" value="doubleray@ctrchina.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DoubleRayWang/react-zmage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\DoubleRay\WebstormProjects" />
   </component>
 </application>
