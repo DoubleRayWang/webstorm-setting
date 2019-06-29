@@ -8,4 +8,14 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="desc" value="/**&#10; * @描述: &#10; * @date $date$ &#10;*/" description="Document Description" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
