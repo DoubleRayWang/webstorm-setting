@@ -34,8 +34,12 @@
           <option name="url" value="https://gitee.com/doubleray/MI-PublicOpinion.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/doubleray/media-gallery.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\project\Vue" />
+    <option name="cloneParentDir" value="C:\project" />
   </component>
 </application>
