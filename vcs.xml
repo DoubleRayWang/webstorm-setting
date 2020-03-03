@@ -42,8 +42,12 @@
           <option name="url" value="http://tmd.ictr.cn:3000" />
           <option name="userName" value="doubleray@ctrchina.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tmd.ictr.cn:3000/wangleilei/MI-PublicOpinion.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\project\React" />
+    <option name="cloneParentDir" value="C:\project\Vue" />
   </component>
 </application>
