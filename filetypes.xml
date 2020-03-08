@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="xmind" type="Native" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="Docker的使用.md" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="wxs" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
