@@ -11,6 +11,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="wxs" approved="true" type="WXS" />
+      <mapping pattern="Dockerfile_1" type="YAML" />
       <removed_mapping ext="wxs" approved="true" type="WXS" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
