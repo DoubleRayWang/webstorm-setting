@@ -42,9 +42,17 @@
           <option name="url" value="http://e.coding.net" />
           <option name="userName" value="876070495@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tmd.ictr.cn:3000/wangleilei/quoted-price.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tmd.ictr.cn:3000/wangleilei/web-server-docker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\project\Vue" />
+    <option name="cloneParentDir" value="C:\project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
