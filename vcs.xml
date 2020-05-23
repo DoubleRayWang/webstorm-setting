@@ -62,9 +62,13 @@
           <option name="url" value="https://gitee.com/bigcathui/alpaca-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dingyong0214/ThorUI-uniapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Development" />
+    <option name="cloneParentDir" value="F:\ReferenceProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
