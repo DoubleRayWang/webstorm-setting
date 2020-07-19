@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="xmind" type="Native" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Docker的使用.md" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="wxs" type="PLAIN_TEXT" />
+      <mapping pattern="mark" type="SVG" />
       <mapping pattern="Dockerfile_1" type="YAML" />
       <removed_mapping ext="wxs" approved="true" type="WXS" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
