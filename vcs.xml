@@ -102,6 +102,10 @@
           <option name="url" value="https://gitee.com/doubleray/h5-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://www.namefmedical.com:444" />
+          <option name="userName" value="WangLeiLei" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\WebProject\h5" />
