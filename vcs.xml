@@ -106,9 +106,13 @@
           <option name="url" value="http://www.namefmedical.com:444" />
           <option name="userName" value="WangLeiLei" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://www.namefmedical.com:444/Campbell_PingAn_H5_004.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\WebProject\h5" />
+    <option name="cloneParentDir" value="C:\Development" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
