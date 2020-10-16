@@ -110,9 +110,13 @@
           <option name="url" value="https://www.namefmedical.com:444/Campbell_PingAn_H5_004.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/doubleray/h5-template_vue2.x.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Development" />
+    <option name="cloneParentDir" value="C:\WebProject\h5" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
