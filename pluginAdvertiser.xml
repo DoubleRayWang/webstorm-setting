@@ -92,6 +92,24 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cjsx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.coffeescript" />
+              <option name="myPluginName" value="CoffeeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.coffee">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.coffeescript" />
+              <option name="myPluginName" value="CoffeeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.css">
           <value>
             <plugin>
@@ -640,6 +658,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.litcoffee">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.coffeescript" />
+              <option name="myPluginName" value="CoffeeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.markdown">
           <value>
             <plugin>
@@ -690,6 +717,15 @@
             <plugin>
               <option name="myPluginId" value="com.dmarcotte.handlebars" />
               <option name="myPluginName" value="Handlebars/Mustache" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ng">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1516,7 +1552,43 @@
             </plugin>
           </value>
         </entry>
+        <entry key="tsconfig.app.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="tsconfig.e2e.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="tsconfig.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="tsconfig.lib.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="tsconfig.spec.json">
           <value>
             <plugin>
               <option name="myPluginId" value="JavaScript" />
