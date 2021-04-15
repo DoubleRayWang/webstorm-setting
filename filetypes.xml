@@ -11,7 +11,6 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="wxs" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping pattern="mark" type="SVG" />
       <mapping pattern="Dockerfile_1" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -24,7 +23,6 @@
       <removed_mapping ext="wxs" approved="true" type="WXS" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
-      <removed_mapping ext="yml" approved="true" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
