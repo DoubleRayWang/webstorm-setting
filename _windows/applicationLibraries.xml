@@ -12,13 +12,5 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="JQ" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-        <option name="frameworkVersion" value="" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
   </component>
 </application>
