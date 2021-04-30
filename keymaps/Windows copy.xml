@@ -1,5 +1,8 @@
 <keymap version="1" name="Windows copy" parent="$default">
   <action id="ShowProjectStructureSettings" />
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
   <action id="Tool_External Tools_stylelint-fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
