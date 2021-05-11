@@ -130,6 +130,10 @@
           <option name="url" value="https://dev.ctrmi.com:3000/lanyu/WX_Learning_Bar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/doubleray/metric-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Development" />
