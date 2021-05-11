@@ -134,9 +134,13 @@
           <option name="url" value="https://gitee.com/doubleray/metric-sdk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/doubleray/mi-officialsite.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Development" />
+    <option name="cloneParentDir" value="C:\Development\jQuery" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
