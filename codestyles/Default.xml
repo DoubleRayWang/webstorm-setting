@@ -2,6 +2,9 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,script,style" />
   </HTMLCodeStyleSettings>
+  <JSON>
+    <option name="ARRAY_WRAPPING" value="1" />
+  </JSON>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
